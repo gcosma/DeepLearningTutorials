@@ -1,7 +1,7 @@
 
 *************************************************** mHealth dataset **********************************************************
 
-Authors: Oresti Baños, Rafael Garcia, Alejandro Saez
+Authors: Oresti BaÃ±os, Rafael Garcia, Alejandro Saez
 Date: 22/10/2013
 Institution: University of Granada (UGR) 
 Department: Department of Computer Architecture and Computer Technology.
